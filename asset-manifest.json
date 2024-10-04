@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Karen-Grigoryan/static/css/main.4dae5733.css",
+    "main.js": "/Karen-Grigoryan/static/js/main.5e72c1ba.js",
+    "static/media/home-bg.webp": "/Karen-Grigoryan/static/media/home-bg.3c78ec8cad5a2f2a807c.webp",
+    "static/media/2rismVBR.mp4": "/Karen-Grigoryan/static/media/2rismVBR.ce4e95d4edde0245bd5a.mp4",
+    "static/media/brownian-motionVBR.mp4": "/Karen-Grigoryan/static/media/brownian-motionVBR.816d1c93a114137368c3.mp4",
+    "static/media/house-staffVBR.mp4": "/Karen-Grigoryan/static/media/house-staffVBR.116d29b7811fd1568abd.mp4",
+    "static/media/cut-spaceVBR.mp4": "/Karen-Grigoryan/static/media/cut-spaceVBR.fc5da8ab7966351a43ed.mp4",
+    "static/media/countdown-timerVBR.mp4": "/Karen-Grigoryan/static/media/countdown-timerVBR.302f25389031284e5a8b.mp4",
+    "static/media/rock-paper-scissorsVBR.mp4": "/Karen-Grigoryan/static/media/rock-paper-scissorsVBR.fae68011ccca0ae64b75.mp4",
+    "static/media/file-downloaderVBR.mp4": "/Karen-Grigoryan/static/media/file-downloaderVBR.f8373a464bbf00ccfc2d.mp4",
+    "static/media/ToDoVBR.mp4": "/Karen-Grigoryan/static/media/ToDoVBR.a61645d16a9fd5d2e6ba.mp4",
+    "static/media/piano-gameVBR.mp4": "/Karen-Grigoryan/static/media/piano-gameVBR.d19f91d2ab434b72fed7.mp4",
+    "static/media/snake-gameVBR.mp4": "/Karen-Grigoryan/static/media/snake-gameVBR.7d4ba43670fcc0285f27.mp4",
+    "static/media/genie.png": "/Karen-Grigoryan/static/media/genie.7a8083a434696e4588ee.png",
+    "static/media/textBackgroung.png": "/Karen-Grigoryan/static/media/textBackgroung.6927a2a547ff9e7a189a.png",
+    "index.html": "/Karen-Grigoryan/index.html",
+    "main.4dae5733.css.map": "/Karen-Grigoryan/static/css/main.4dae5733.css.map",
+    "main.5e72c1ba.js.map": "/Karen-Grigoryan/static/js/main.5e72c1ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dae5733.css",
+    "static/js/main.5e72c1ba.js"
+  ]
+}
