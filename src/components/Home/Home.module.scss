@@ -37,6 +37,7 @@
   font-family: "Anton SC", sans-serif;
   font-weight: 400;
   letter-spacing: 3px;
+  user-select: none;
   background-image: url(../../assets/img/textBackgroung.png);
   background-size: 550px;
   background-repeat: repeat;
@@ -47,7 +48,6 @@
   -webkit-text-stroke-color: rgb(158, 145, 164);
   text-shadow: 2px 2px 4px rgba(231, 222, 222, 0.15);
   line-height: 1;
-  user-select: none;
   animation: leftContent 1s ease-in-out forwards;
   @media (max-width: 920px) {
     [data-theme="dark"] & {
@@ -107,7 +107,6 @@
 .hireMeText {
   font-size: clamp(1rem, 0.769rem + 1.03vw, 2rem);
   color: var(--text-color-base);
-  user-select: none;
   @media (max-width: 1025px) {
     [data-theme="dark"] & {
       color: var(--text-color-primary);

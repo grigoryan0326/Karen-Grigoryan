@@ -17,14 +17,12 @@
       text-align: center;
     }
     .worksInfoTitle {
-      user-select: none;
       font-size: clamp(3rem, 2.423rem + 2.56vw, 5.5rem);
       color: var(--text-color-secondary);
       opacity: 0;
       animation: slide-bottom 1s ease-in-out forwards;
     }
     .worksInfoText {
-      user-select: none;
       color: var(--text-color-base);
       text-shadow: 2px 2px 4px var(--text-color-base);
       font-size: clamp(1.5rem, 1.269rem + 0.9vw, 2.5rem);
@@ -33,7 +31,6 @@
     }
   }
   .worksQuote {
-    user-select: none;
     font-size: clamp(1.4rem, 1.262rem + 0.62vw, 2rem);
     color: var(--text-color-primary);
     margin-bottom: 70px;

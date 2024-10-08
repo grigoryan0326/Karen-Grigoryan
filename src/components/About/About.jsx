@@ -1,4 +1,4 @@
-import { useEffect } from "react"
+import { useEffect, useRef } from "react"
 import { BsFillMortarboardFill } from "react-icons/bs"
 import { LuLanguages } from "react-icons/lu"
 import { AM } from "country-flag-icons/react/3x2"
@@ -9,6 +9,13 @@ import TakeATourBtn from "../../UI/TakeATourBtn/TakeATourBtn"
 import "./About.scss"
 
 const About = () => {
+  const infoRef = useRef(null)
+
+  const scrollToInfo = (e) => {
+    e.preventDefault()
+    infoRef.current.scrollIntoView({ behavior: "smooth" })
+  }
+
   const skills = {
     hardSkills: [
       "HTML5, JSX",
@@ -104,13 +111,15 @@ const About = () => {
         </p>
         <a
           href='#info'
+          onClick={scrollToInfo}
           className='aboutTitleBtn'
         >
-          <TakeATourBtn />
+          <TakeATourBtn onClick={scrollToInfo} />
         </a>
       </div>
       <div
         className='aboutInfoWrapper'
+        ref={infoRef}
         id='info'
       >
         <div className='infoEducation left'>
