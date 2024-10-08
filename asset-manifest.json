@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Karen-Grigoryan/static/css/main.4dae5733.css",
+    "main.css": "/Karen-Grigoryan/static/css/main.06874a55.css",
     "main.js": "/Karen-Grigoryan/static/js/main.3f98999c.js",
     "static/media/home-bg.webp": "/Karen-Grigoryan/static/media/home-bg.3c78ec8cad5a2f2a807c.webp",
     "static/media/2rismVBR.mp4": "/Karen-Grigoryan/static/media/2rismVBR.ce4e95d4edde0245bd5a.mp4",
@@ -16,11 +16,11 @@
     "static/media/genie.png": "/Karen-Grigoryan/static/media/genie.7a8083a434696e4588ee.png",
     "static/media/textBackgroung.png": "/Karen-Grigoryan/static/media/textBackgroung.6927a2a547ff9e7a189a.png",
     "index.html": "/Karen-Grigoryan/index.html",
-    "main.4dae5733.css.map": "/Karen-Grigoryan/static/css/main.4dae5733.css.map",
+    "main.06874a55.css.map": "/Karen-Grigoryan/static/css/main.06874a55.css.map",
     "main.3f98999c.js.map": "/Karen-Grigoryan/static/js/main.3f98999c.js.map"
   },
   "entrypoints": [
-    "static/css/main.4dae5733.css",
+    "static/css/main.06874a55.css",
     "static/js/main.3f98999c.js"
   ]
 }
