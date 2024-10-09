@@ -1,13 +1,7 @@
 import React, { useRef, useEffect, useState } from "react"
 import styled from "styled-components"
 import { Swiper, SwiperSlide } from "swiper/react"
-import {
-  Pagination,
-  Navigation,
-  EffectFade,
-  Autoplay,
-  Mousewheel,
-} from "swiper/modules"
+import { Pagination, Navigation, EffectFade, Autoplay } from "swiper/modules"
 import "swiper/scss"
 import "swiper/scss/navigation"
 import "swiper/scss/pagination"
@@ -79,11 +73,10 @@ export default function WorksSlider() {
       className='styled-container'
     >
       <Swiper
-        modules={[Pagination, Navigation, EffectFade, Autoplay, Mousewheel]}
+        modules={[Pagination, Navigation, EffectFade, Autoplay]}
         spaceBetween={30}
         slidesPerView={1}
         effect='fade'
-        mousewheel
         loop
         navigation
         pagination={{

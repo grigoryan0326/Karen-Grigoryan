@@ -101,10 +101,8 @@ const About = () => {
           </a>
           with a strong passion for web development, eager to kickstart my
           professional journey as a frontend developer. My foundation in HTML,
-          CSS, JavaScript and React.js is solid, and I am continuously striving
-          to expand my knowledge and skills. Though I’m still early in my career
-          and not yet an expert, my motivation to grow and excel in this field
-          drives me forward. I’m looking for an opportunity where I can
+          CSS, JavaScript and React.js is solid, and I'm continuously striving
+          to expand my knowledge and skills. I’m looking for an opportunity where I can
           contribute to meaningful projects, collaborate with talented teams,
           and continually enhance my abilities to reach new heights in my
           career.
