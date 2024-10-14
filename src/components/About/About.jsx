@@ -100,12 +100,10 @@ const About = () => {
             <span> Armenia </span>
           </a>
           with a strong passion for web development, eager to kickstart my
-          professional journey as a frontend developer. My foundation in HTML,
-          CSS, JavaScript and React.js is solid, and I'm continuously striving
-          to expand my knowledge and skills. I’m looking for an opportunity where I can
-          contribute to meaningful projects, collaborate with talented teams,
-          and continually enhance my abilities to reach new heights in my
-          career.
+          professional journey as a frontend developer. I’m looking for an
+          opportunity where I can contribute to meaningful projects, collaborate
+          with talented teams, and continually enhance my abilities to reach new
+          heights in my career.
         </p>
         <a
           href='#info'

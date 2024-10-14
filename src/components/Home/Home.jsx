@@ -8,6 +8,8 @@ import Works from "../../utils/WorksSlideData"
 import s from "./Home.module.scss"
 
 const Home = () => {
+  console.log("rerendered")
+
   const [isLoaded, setIsLoaded] = useState(false)
   const [showPreloader, setShowPreloader] = useState(true)
 
@@ -24,24 +26,18 @@ const Home = () => {
   }, [])
 
   useEffect(() => {
-    const hasLoaded = sessionStorage.getItem("homeLoaded")
-    if (!hasLoaded) {
-      setShowPreloader(true)
-      sessionStorage.setItem("homeLoaded", "true")
-    } else {
-      setShowPreloader(false)
-    }
-
     const preloadImage = new Image()
     preloadImage.src = bgImage
 
     preloadImage.onload = () => {
-      setIsLoaded(true)
+      console.log("image loaded")
+
       setTimeout(() => {
+        setIsLoaded(true)
         setShowPreloader(false)
       }, 3000)
     }
-  }, [isLoaded])
+  }, [isLoaded, setIsLoaded])
 
   return (
     <>

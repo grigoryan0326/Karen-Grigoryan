@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Karen-Grigoryan/static/css/main.d4392136.css",
-    "main.js": "/Karen-Grigoryan/static/js/main.8be597d8.js",
+    "main.css": "/Karen-Grigoryan/static/css/main.83364953.css",
+    "main.js": "/Karen-Grigoryan/static/js/main.3b361968.js",
     "static/media/home-bg.webp": "/Karen-Grigoryan/static/media/home-bg.3c78ec8cad5a2f2a807c.webp",
     "static/media/2rismVBR.mp4": "/Karen-Grigoryan/static/media/2rismVBR.ce4e95d4edde0245bd5a.mp4",
     "static/media/brownian-motionVBR.mp4": "/Karen-Grigoryan/static/media/brownian-motionVBR.816d1c93a114137368c3.mp4",
@@ -16,11 +16,11 @@
     "static/media/genie.png": "/Karen-Grigoryan/static/media/genie.7a8083a434696e4588ee.png",
     "static/media/textBackgroung.png": "/Karen-Grigoryan/static/media/textBackgroung.6927a2a547ff9e7a189a.png",
     "index.html": "/Karen-Grigoryan/index.html",
-    "main.d4392136.css.map": "/Karen-Grigoryan/static/css/main.d4392136.css.map",
-    "main.8be597d8.js.map": "/Karen-Grigoryan/static/js/main.8be597d8.js.map"
+    "main.83364953.css.map": "/Karen-Grigoryan/static/css/main.83364953.css.map",
+    "main.3b361968.js.map": "/Karen-Grigoryan/static/js/main.3b361968.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4392136.css",
-    "static/js/main.8be597d8.js"
+    "static/css/main.83364953.css",
+    "static/js/main.3b361968.js"
   ]
 }
